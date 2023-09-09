@@ -4,7 +4,7 @@ import Buttons from './Buttons';
 import ButtonsGroup from './ButtonsGroup';
 import Checkboxs from './Checkboxs';
 import RadioButtons from './RadioButtons';
-
+import Sliders from './Sliders';
 
 function App() {
   return (
@@ -17,6 +17,8 @@ function App() {
       <Checkboxs/>
       <br/> <br/>
       <RadioButtons/>
+      <br/> <br/>
+      <Sliders/>
         </div>
   );
  
