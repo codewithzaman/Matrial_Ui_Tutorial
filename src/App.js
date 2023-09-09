@@ -7,6 +7,7 @@ import RadioButtons from './RadioButtons';
 import Sliders from './Sliders';
 import RangeSliders from './RangeSliders';
 import SelectBox from './Selectbox';
+import Textfields from './Textfields';
 
 
 function App() {
@@ -27,6 +28,8 @@ function App() {
       <br/> <br/>
       <SelectBox/>
       <br/><br/><br/>
+      <Textfields/>
+      <br/> <br/>
         </div>
   );
  
