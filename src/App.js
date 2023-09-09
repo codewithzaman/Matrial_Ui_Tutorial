@@ -6,6 +6,8 @@ import Checkboxs from './Checkboxs';
 import RadioButtons from './RadioButtons';
 import Sliders from './Sliders';
 import RangeSliders from './RangeSliders';
+import SelectBox from './Selectbox';
+
 
 function App() {
   return (
@@ -22,6 +24,9 @@ function App() {
       <Sliders/> 
       <br/> <br/>
       <RangeSliders/>
+      <br/> <br/>
+      <SelectBox/>
+      <br/><br/><br/>
         </div>
   );
  
