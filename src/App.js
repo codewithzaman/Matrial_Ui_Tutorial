@@ -10,6 +10,8 @@ import SelectBox from './Selectbox';
 import Textfields from './Textfields';
 import Switches from './Switches';
 import Boxes from './Boxes';
+import Containers from './Containers';
+import Grids from './Grids';
 
 
 function App() {
@@ -35,6 +37,10 @@ function App() {
       <Switches/>
       <br/><br/>
       <Boxes/>
+      <br/><br/>
+      <Containers/>
+      <br/><br/>
+      <Grids/>
         </div>
   );
  
