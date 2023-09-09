@@ -1,9 +1,10 @@
 import React from 'react'
+import { Slider } from '@mui/material'
 
 function RangeSliders() {
   return (
-    <div>
-      
+    <div style={{width:300 , margin:30}}>
+      <Slider/>
     </div>
   )
 }

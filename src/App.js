@@ -5,6 +5,7 @@ import ButtonsGroup from './ButtonsGroup';
 import Checkboxs from './Checkboxs';
 import RadioButtons from './RadioButtons';
 import Sliders from './Sliders';
+import RangeSliders from './RangeSliders';
 
 function App() {
   return (
@@ -18,7 +19,9 @@ function App() {
       <br/> <br/>
       <RadioButtons/>
       <br/> <br/>
-      <Sliders/>
+      <Sliders/> 
+      <br/> <br/>
+      <RangeSliders/>
         </div>
   );
  
