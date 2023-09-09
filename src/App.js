@@ -8,6 +8,7 @@ import Sliders from './Sliders';
 import RangeSliders from './RangeSliders';
 import SelectBox from './Selectbox';
 import Textfields from './Textfields';
+import Switches from './Switches';
 
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
       <br/><br/><br/>
       <Textfields/>
       <br/> <br/>
+      <Switches/>
         </div>
   );
  
