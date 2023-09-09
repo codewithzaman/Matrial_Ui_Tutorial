@@ -3,6 +3,7 @@ import React from "react"
 import Buttons from './Buttons';
 import ButtonsGroup from './ButtonsGroup';
 import Checkboxs from './Checkboxs';
+import RadioButtons from './RadioButtons';
 
 
 function App() {
@@ -14,6 +15,8 @@ function App() {
       <ButtonsGroup/>
       <br/><br/>
       <Checkboxs/>
+      <br/> <br/>
+      <RadioButtons/>
         </div>
   );
  
